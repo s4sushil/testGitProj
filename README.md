@@ -1,1 +1,2 @@
 # testGitProj
+Txt added.
